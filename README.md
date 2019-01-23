@@ -37,6 +37,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+The embedding of the gif walkthrough seems to give an error of "content length exceeded"
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
