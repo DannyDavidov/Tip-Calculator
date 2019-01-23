@@ -29,15 +29,12 @@ Here's a walkthrough of implemented user stories:
 
 <img src="http://g.recordit.co/igJO3v4TRq.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-https://i.imgur.com/3EDDKTM.gifv
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-
-The embedding of the gif walkthrough seems to give an error of "content length exceeded"
 
 ## License
 
