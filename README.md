@@ -21,7 +21,9 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
+
+Added another button & label to set up the number of people to show split amount of the total bill with default value set to 1 for the user themselves.
 
 ## Video Walkthrough 
 
