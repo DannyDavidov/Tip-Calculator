@@ -34,7 +34,7 @@ GIF created with RecordIt.co
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had to restart the project after the original one broke (missing certain elements to run the program) due to trying to use different MAC computers.
 
 ## License
 
